@@ -1,0 +1,12 @@
+avion
+campus
+camion
+ordinateur
+banane
+television
+voiture
+kiwi
+zebre
+processing
+probleme
+yaourt
